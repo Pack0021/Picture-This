@@ -53,4 +53,8 @@ img {
   .picture{
     grid-area: pic;
   }
+
+  .pic {
+    width: 100%;
+  }
 }
